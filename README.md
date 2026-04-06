@@ -33,17 +33,6 @@ Paleta completa em tons de verde fosforescente para um visual retrô estilo CRT/
 
 ---
 
-## ⌨️ Atalhos Configurados
-
-| Atalho | Ação |
-|---|---|
-| `Ctrl + C` | Copiar |
-| `Ctrl + V` | Colar |
-| `Ctrl + Shift + C` | Copiar ou enviar SIGINT |
-| `Shift + Insert` | Colar seleção primária (X11) |
-
----
-
 ## 📋 Pré-requisitos
 
 - **Ubuntu** (qualquer versão suportada)
