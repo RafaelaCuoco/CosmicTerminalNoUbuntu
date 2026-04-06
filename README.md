@@ -176,3 +176,33 @@ Este script é fornecido "como está" para facilitar a instalação do COSMIC Te
 <div align="center">
 
 **Feito com 💜 por Rafaela Cuoco e comunidade TransDevs**
+
+---
+
+### ⭐ Apoie o projeto
+
+Se este script foi útil para você, considere dar uma ⭐ no repositório!
+
+[⭐ **Star this repo**](https://github.com/SEU-USUARIO/CosmicTerminalNoUbuntu/stargazers)
+
+---
+
+### 🐛 Reporte problemas
+
+Encontrou um bug ou tem uma sugestão? Abra uma issue!
+
+[🚨 **Abrir Issue**](https://github.com/SEU-USUARIO/CosmicTerminalNoUbuntu/issues)
+
+---
+
+### 🔗 Links úteis
+
+| Link | Descrição |
+|---|---|
+| [⭐ Stargazers](https://github.com/SEU-USUARIO/CosmicTerminalNoUbuntu/stargazers) | Veja quem deu estrela no projeto |
+| [🍴 Forks](https://github.com/SEU-USUARIO/CosmicTerminalNoUbuntu/network/members) | Comunidade contribuindo com forks |
+| [📋 Issues](https://github.com/SEU-USUARIO/CosmicTerminalNoUbuntu/issues) | Bugs reportados e melhorias sugeridas |
+| [📝 Pull Requests](https://github.com/SEU-USUARIO/CosmicTerminalNoUbuntu/pulls) | Contribuições abertas |
+| [🌟 COSMIC Term Original](https://github.com/pop-os/cosmic-term) | Projeto oficial da System76 |
+
+</div>
