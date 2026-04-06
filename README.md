@@ -173,4 +173,6 @@ Este script é fornecido "como está" para facilitar a instalação do COSMIC Te
 
 ---
 
-Feito com ❤️ para a comunidade Linux
+<div align="center">
+
+**Feito com 💜 por Rafaela Cuoco e comunidade TransDevs**
