@@ -7,10 +7,9 @@ Script automatizado para **compilar**, **instalar** e **configurar** o [COSMIC T
 ## ✨ Recursos
 
 - ✅ **Compilação automática** do código fonte oficial
-- ✅ **Instalação** no sistema (`/usr/local/bin`)
+- ✅ **Instalação no sistema** (`/usr/local/bin`)
 - ✅ **Tema Phosphor Green** — terminal com visual verde fosforescente estilo CRT
 - ✅ **Opacidade 75%** — transparência para melhor visualização
-- ✅ **Atalhos simplificados** — `Ctrl+C` copiar / `Ctrl+V` colar
 - ✅ **Terminal padrão** — configura alias e MIME types
 - ✅ **Validações de segurança** — evita reprocessamento e quebras
 - ✅ **Backups automáticos** — preserva configurações anteriores
